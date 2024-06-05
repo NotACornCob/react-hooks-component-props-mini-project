@@ -16,7 +16,7 @@ function App() {
         about = {blogData.about}
       />
       <ArticleList
-        articles = {blogData.posts}
+        posts = {blogData.posts}
       />
       <Article
       />
